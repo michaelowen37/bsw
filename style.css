@@ -160,7 +160,7 @@ a {
  vh = viewport height percentage
  **********************************************************************/
 .responsiveimg {
-    height: 50vh;
+    height: 35vh;
     width: auto;
 }
 
